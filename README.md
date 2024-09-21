@@ -13,7 +13,7 @@ Hugging Face's Transformers: For utilizing pre-trained models and fine-tuning th
 
 How to Use:
 
-1.Link to the model: [https://www.kaggle.com/code/alexchudnovsky/lyrics-generation-gpt2-fine-tuning?scriptVersionId=174106274](https://www.kaggle.com/code/alexchudnovsky/lyrics-generation-gpt2-fine-tuning)
+1.Link to the model: [[https://www.kaggle.com/code/alexchudnovsky/lyrics-generation-gpt2-fine-tuning?scriptVersionId=174106274](https://www.kaggle.com/code/alexchudnovsky/lyrics-generation-gpt2-fine-tuning)](https://www.kaggle.com/code/alexchudnovsky/lyrics-generation-gpt2-fine-tuning)
 
 2.Then Click on the 3 little circles on the up rightside of the screen and click on “Copy & Edit notebook”.
 
